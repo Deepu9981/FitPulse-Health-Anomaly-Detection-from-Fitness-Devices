@@ -39,5 +39,48 @@ The dataset includes time-series fitness data such as:
 
 ---
 
+## 📁 Project Structure
+
+The project follows a **well-organized and modular directory structure** to ensure clarity, reproducibility, and ease of future expansion. Each folder is designed to clearly separate data, experimentation, and source code, making the overall workflow systematic and scalable.
+
+The **`Milestone1/`** directory contains all components related to the first phase of the project, which focuses on data understanding, preprocessing, exploratory analysis, and baseline anomaly detection.
+
+### `data/`
+This directory stores the dataset obtained from Kaggle. It includes:
+
+- **Raw data:** Original, unmodified CSV files downloaded directly from Kaggle.
+- **Processed data:** Cleaned and transformed datasets generated after preprocessing in Google Colab.
+
+Maintaining separate raw and processed datasets ensures data integrity and reproducibility.
+
+### `notebooks/`
+This folder contains Jupyter notebooks developed and executed in **Google Colab**. These notebooks document the complete experimental workflow, including:
+
+- Data loading and preprocessing  
+- Exploratory Data Analysis (EDA) using visualizations  
+- Initial anomaly detection experiments  
+
+The notebooks provide transparency and make the analysis easy to understand and replicate.
+
+### `preprocess_py.ipynb/`
+The `src` directory contains modular Python scripts that implement reusable logic for:
+
+- Data preprocessing and normalization  
+- Feature engineering for time-series data  
+- Anomaly detection techniques  
+
+Separating core logic into scripts keeps notebooks concise and supports scalability in future milestones.
+
+### `requirements.txt`
+Lists all Python dependencies required to run the project, allowing the environment to be easily recreated locally or in cloud platforms.
+
+uvicorn
+pandas
+numpy
+aiofiles
+streamlit
+requests
+
+
 
 
