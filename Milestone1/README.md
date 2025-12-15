@@ -5,7 +5,7 @@ Milestone 1: Data Collection and Preprocessing**
 For this milestone, the goal was simple: gather a bunch of fitness tracker data—heart rate, steps, and sleep logs—then clean it up, get everything on the same timeline, and prep it for the real work ahead: spotting health anomalies.
 
 Dataset Source
-i pulled from open fitness tracking datasets, which gave us heart rate, step counts, and sleep records. All the raw data came as CSV or JSON files, each with timestamps and numbers coming straight from wearable devices.
+i pulled from open fitness tracking datasets, which gave us heart rate, step counts, and sleep records. All the raw data came as CSV or JSON files, each with timestamps and numbers coming straight from wearable devices by kaggle.
 
 Some examples:
 - Heart rate time series
