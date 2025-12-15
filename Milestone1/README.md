@@ -21,8 +21,8 @@ This repository contains **Milestone-1**, which focuses on data preprocessing, v
 ##  Technologies Used
 
 - **Language:** Python  
-- **Libraries:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-- **Environment:** Google Colab / Jupyter Notebook  
+- **Libraries:** pandas, NumPy
+- **Environment:** Google Colab
 
 ---
 
