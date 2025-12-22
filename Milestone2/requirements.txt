@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tsfresh
+prophet
+python-dateutil
+pytz
+matplotlib
+plotly
