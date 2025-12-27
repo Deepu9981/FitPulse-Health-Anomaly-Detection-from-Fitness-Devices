@@ -109,11 +109,3 @@ All datasets are **cleaned, normalized, and timestamp-aligned** during Milestone
   - Outlier clusters representing irregular or potentially anomalous activity patterns
 
 
-
-## ✅ Conclusion
-
-Milestone 2 successfully bridges raw fitness data and intelligent anomaly detection by combining **feature engineering, temporal modeling, and unsupervised learning**.  
-These results form a **strong analytical backbone** for advanced anomaly detection and real-time health monitoring in upcoming milestones.
-
----
-
