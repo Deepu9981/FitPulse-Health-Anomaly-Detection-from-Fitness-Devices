@@ -66,5 +66,3 @@ The objective of Milestone 3 is to identify, label, and visualize health-related
 Milestone 3 demonstrates a robust anomaly detection pipeline by combining predictive modeling, rule-based thresholds, and clustering-based insights. The integration of clear labeling and visual interpretation enhances explainability and practical usability, laying a strong foundation for real-world health monitoring and alert systems.
 
 ---
-
-## Repository Structure
